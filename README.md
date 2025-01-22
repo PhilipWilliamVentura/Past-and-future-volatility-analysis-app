@@ -7,7 +7,9 @@ Python
 Version: Python 3.7 or higher.
 
 Libraries
-<clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">pip install numpy pandas yfinance plotly scipy streamlit<clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+```
+pip install numpy pandas yfinance plotly scipy streamlit
+```
 
 NumPy: For numerical operations, including creating grids.
 Pandas: To handle stock and option data.
@@ -18,4 +20,6 @@ Streamlit: To build the interactive web application.
 
 To run the application (Streamlit framework)
 After installing the dependencies, you can run the Streamlit app with the following command:
-<clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">streamlit run main.py<clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+```
+streamlit run main.py
+```
